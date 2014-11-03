@@ -42,7 +42,8 @@
 > <a href="Practise/02/practise02.jsp">실습 2</a><br>
 > <a href="Practise/03/practise03.jsp">실습 3</a><br>
 > <a href="Practise/04/practise04.jsp">실습 4</a><br>
-> <a href="Practise/05/practise05.jsp">실습 5</a><br><br>
+> <a href="Practise/05/practise05.jsp">실습 5</a><br>
+> <a href="Practise/06/jdbctest.jsp">실습 6</a><br><br>
 이론 실습 링크<br>
 > <a href="test/Hello_World.jsp">Hello World.jsp</a><br>
 > <a href="Practise/theory03_JSP/theory03_main.jsp">JSP 기초</a><br>
