@@ -18,7 +18,7 @@
 <a href="include_test.jsp">include Å×½ºÆ®</a><br>
 <a href="include_action.jsp">include action</a><br>
 <a href="forward_action.jsp">forward action</a><br>
-<a href="sriptlet.jsp">scriptlet</a><br>
+<a href="scriptlet.jsp">scriptlet</a><br>
 </div>
 </body>
 </html>

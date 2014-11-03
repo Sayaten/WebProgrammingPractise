@@ -14,11 +14,12 @@
 </head>
 <body>
 <div id="Link">
-<a href="request_form.jsp">request</a><br>
+<a href="request_form.html">request</a><br>
 <a href="page_control.jsp">response</a><br>
 <a href="out.jsp">out</a><br>
 <a href="session.jsp">session</a><br>
 <a href="applicaion.jsp">application</a><br>
 <a href="login.jsp">장바구니</a><br>
+</div>
 </body>
 </html>
