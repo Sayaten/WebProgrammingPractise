@@ -5,21 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
 <title>Insert title here</title>
-<style>
-	#Link{
-		margin: auto;
-		text-align: center;
-	}
-</style>
 </head>
 <body>
-<div id="Link">
-<a href="request_form.html">request</a><br>
-<a href="page_control.jsp">response</a><br>
-<a href="out.jsp">out</a><br>
-<a href="session.jsp">session</a><br>
-<a href="application.jsp">application</a><br>
-<a href="login.jsp">장바구니</a><br>
-</div>
+
 </body>
 </html>

@@ -8,18 +8,17 @@
 <style>
 	#Link{
 		margin: auto;
-		text-align: center;
+		width: 100px;
 	}
 </style>
 </head>
 <body>
 <div id="Link">
-<a href="request_form.html">request</a><br>
-<a href="page_control.jsp">response</a><br>
-<a href="out.jsp">out</a><br>
-<a href="session.jsp">session</a><br>
-<a href="application.jsp">application</a><br>
-<a href="login.jsp">장바구니</a><br>
+<a href="cookCookie.jsp">쿠키 예제</a><br>
+<a href="createSession.jsp">세션 예제</a><br>
+<a href="login.html">로그인 구현 1</a><br>
+<a href="login2.jsp">로그인 구현 2</a><br>
+<a href="fileSelect.jsp">upload</a><br>
 </div>
 </body>
 </html>
